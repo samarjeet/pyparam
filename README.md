@@ -7,6 +7,8 @@ pyparam
 
 A python-based force-field parameterization and optimization tool.
 
+Initial Parameterization for CHARMM. 
+
 ### Copyright
 
 Copyright (c) 2018, LoBos/NHLBI
