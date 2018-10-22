@@ -16,5 +16,5 @@ Copyright (c) 2018, LoBos/NHLBI
 
 #### Acknowledgements
  
-Project based on the 
+Project directory structure based on the format 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms)
